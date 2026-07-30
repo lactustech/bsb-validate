@@ -1,0 +1,44 @@
+{
+  "name": "bsb-validate",
+  "version": "1.0.0",
+  "description": "Validate, format, decode and look up Australian BSB (Bank State Branch) numbers. Offline validation plus optional lookups via the free BSBFinder API.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "bsb",
+    "australia",
+    "australian",
+    "bank",
+    "banking",
+    "bsb-number",
+    "bank-state-branch",
+    "validation",
+    "validator",
+    "fintech",
+    "payments",
+    "becs",
+    "swift",
+    "auspaynet"
+  ],
+  "author": "Ujwal Jayendran",
+  "license": "MIT",
+  "homepage": "https://bsbfinder.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/bsb-validate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/bsb-validate/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}
