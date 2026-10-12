@@ -1,6 +1,6 @@
 {
   "name": "bsb-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate, format, decode and look up Australian BSB (Bank State Branch) numbers. Offline validation plus optional lookups via the free BSBFinder API.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -28,10 +28,10 @@
   "homepage": "https://bsbfinder.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/bsb-validate.git"
+    "url": "git+https://github.com/lactustech/bsb-validate.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/bsb-validate/issues"
+    "url": "https://github.com/lactustech/bsb-validate/issues"
   },
   "engines": {
     "node": ">=14"
